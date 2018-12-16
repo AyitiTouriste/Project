@@ -1,0 +1,61 @@
+PODS:
+  - Alamofire (4.8.0)
+  - AlamofireImage (3.4.1):
+    - Alamofire (~> 4.7)
+  - Backendless (5.2.6):
+    - Socket.IO-Client-Swift
+  - Bolts/Tasks (1.9.0)
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.7.0):
+    - GoogleMaps/Base (= 2.7.0)
+  - Parse (1.17.2):
+    - Parse/Core (= 1.17.2)
+  - Parse/Core (1.17.2):
+    - Bolts/Tasks (~> 1.9)
+  - Socket.IO-Client-Swift (13.3.1):
+    - Starscream (~> 3.0.2)
+  - Starscream (3.0.5)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - AlamofireImage (~> 3.3)
+  - Backendless
+  - GoogleMaps
+  - GooglePlaces
+  - Parse
+  - Socket.IO-Client-Swift
+  - Starscream (<= 3.0.5)
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - Backendless
+    - Bolts
+    - GoogleMaps
+    - GooglePlaces
+    - Parse
+    - Socket.IO-Client-Swift
+    - Starscream
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  AlamofireImage: 78d67ccbb763d87ba44b21583d2153500a195630
+  Backendless: bd64a7c34ac7b30e32f0b7b782d6d53c67940980
+  Bolts: ac6567323eac61e203f6a9763667d0f711be34c8
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  GooglePlaces: 3d06e6c99654545b4738ce49648745779c25f2ef
+  Parse: 3b31a3dd1777b07ee7f0caee32fafbff544483a5
+  Socket.IO-Client-Swift: 79f8f85fa44881838175a20f9bd2c32bef2c9d37
+  Starscream: faf918b2f2eff7d5dd21180646bf015a669673bd
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 0167200bb8904577b8e8f8c69069ec25f19073f0
+
+COCOAPODS: 1.5.3

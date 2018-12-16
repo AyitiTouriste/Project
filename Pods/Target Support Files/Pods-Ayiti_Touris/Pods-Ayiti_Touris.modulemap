@@ -1,0 +1,6 @@
+framework module Pods_Ayiti_Touris {
+  umbrella header "Pods-Ayiti_Touris-umbrella.h"
+
+  export *
+  module * { export * }
+}
